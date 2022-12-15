@@ -1,1 +1,29 @@
 Other data files are included in R libraries.  See appendix C.3
+
+List of files:
+
+accident.dat
+anteater.tab
+applicants.dat
+bodyfat.txt
+challenger.txt
+copen.dat
+cork.dta
+frets.dat
+gene.csv
+glass.data
+morse.dat
+obcb.data
+pitpropC.tab
+pitprop.scree
+plato.tab
+psych.csv
+rats.tab
+segmentation2.data
+shoulders.dat
+shrewmeans.dat
+titanic3v.csv
+townlocs.dat
+towns.dat
+turtles.dat
+worldbank.csv
